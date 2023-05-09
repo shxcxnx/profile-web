@@ -11,7 +11,7 @@ export const Hero = () => {
             <div className='w-full h-screen md:h-screen flex flex-col justify-center items-center '>
                 {/* <img className='mb-6 rounded-full w-[250px] h-[250px] justify-self-center md:w-[350px] md:h-[350px] object-cover' src='./img/raul-prom.jpg' alt='Raul prom' /> */}
                 <h2 className='font-bold text-md md:text-xl'>RAUL FERNANDO CALLEROS HERNANDEZ</h2>
-                <h1 className='font-bold text-2xl md:text-6xl'>COMPUTER SYSTEMS ENGINEER</h1>
+                <h1 className='font-bold text-2xl md:text-6xl'>FRONT-END DEVELOPER</h1>
                 <p className='font-bold text-sm md:text-lg'>DURANGO, DGO.</p>
 
                 <div className='flex gap-6 mt-6'>
