@@ -30,7 +30,7 @@ export const Contact = ({ title }) => {
             <article className=''>
                 <h1 className='mb-6 text-2xl text-start font-bold md:text-5xl'>{title}</h1>
 
-                <p className='text-md md:text-xl'>Send me a message by e-mail or through any of my social networks to get in touch, talk about your problems and work together to get a solutions. I will be very happy to hear new ideas and great projects. Peace. </p>
+                <p className='text-lg md:text-xl'>Send me a message by e-mail or through any of my social networks to get in touch, talk about your problems and work together to get a solutions. I will be very happy to hear new ideas and great projects. Peace. </p>
                 <div className='flex justify-end gap-4 mt-6'>
                     <a href='https://www.instagram.com/raulcalleh/' target={'_blank'} className='text-black transition hover:text-red-500'>
                         <span className='sr-only'>Instagram</span>
@@ -74,7 +74,7 @@ export const Contact = ({ title }) => {
             >
                 {/* {error && (
                     <div className='bg-red-500 w-full p-3 mb-2 text-white text-center rounded-md uppercase'>
-                        <p className='text-md font-bold'>Ningun campo debe de estar vacio</p>
+                        <p className='text-lg font-bold'>Ningun campo debe de estar vacio</p>
                     </div>
                 )} */}
 

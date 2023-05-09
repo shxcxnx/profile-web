@@ -5,34 +5,34 @@ export const Services = ({ title }) => {
             <div className='w-full h-screen gap-6 grid grid-cols-1 md:grid-cols-3 '>
                 <article className='flex flex-col justify-center  '>
                     <h1 className='text-7xl mb-6 self-center'>🖌️</h1>
-                    <h2 className='mb-3 text-md font-semibold md:text-xl'>Web Design</h2>
-                    <p className='text-md md:text-xl'>A good taste for the UI design, merged with a nice kwonledge of UX.</p>
+                    <h2 className='mb-3 text-lg font-semibold md:text-xl'>Web Design</h2>
+                    <p className='text-lg md:text-xl'>A good taste for the UI design, merged with a nice kwonledge of UX.</p>
                 </article>
                 <article className='flex flex-col justify-center'>
                     <h1 className='text-7xl mb-6 self-center'>💻</h1>
-                    <h2 className='mb-3 text-md font-semibold md:text-xl'>Web Development</h2>
-                    <p className='text-md md:text-xl'>Developing projects for create products or services of quality to all necesities.</p>
+                    <h2 className='mb-3 text-lg font-semibold md:text-xl'>Web Development</h2>
+                    <p className='text-lg md:text-xl'>Developing projects for create products or services of quality to all necesities.</p>
                 </article>
                 <article className='flex flex-col justify-center'>
                     <h1 className='text-7xl mb-6 self-center'>📱</h1>
-                    <h2 className='mb-3 text-md  font-semibold md:text-xl'>Responsive Design</h2>
-                    <p className='text-md md:text-xl'>Adapting ideas for use them anywhere, anytime, just keep thinking.</p>
+                    <h2 className='mb-3 text-lg  font-semibold md:text-xl'>Responsive Design</h2>
+                    <p className='text-lg md:text-xl'>Adapting ideas for use them anywhere, anytime, just keep thinking.</p>
                 </article>
                 {/* 
                 <article className='flex flex-col justify-center items-center text-center '>
                     <h1 className='text-5xl mb-6'>🔌</h1>
-                    <h2 className='mb-6 text-md font-semibold md:text-xl'>Networking</h2>
-                    <p className='text-md md:text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <h2 className='mb-6 text-lg font-semibold md:text-xl'>Networking</h2>
+                    <p className='text-lg md:text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </article>
                 <article className='flex flex-col justify-center items-center text-center '>
                     <h1 className='text-5xl mb-6'>👨🏻‍💻</h1>
-                    <h2 className='mb-6 text-md font-semibold md:text-xl'>Cibersecurity</h2>
-                    <p className='text-md md:text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <h2 className='mb-6 text-lg font-semibold md:text-xl'>Cibersecurity</h2>
+                    <p className='text-lg md:text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </article>
                 <article className='flex flex-col justify-center items-center text-center '>
                     <h1 className='text-5xl mb-6'>🎮</h1>
-                    <h2 className='mb-6 text-md font-semibold md:text-xl'>Videogames</h2>
-                    <p className='text-md md:text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <h2 className='mb-6 text-lg font-semibold md:text-xl'>Videogames</h2>
+                    <p className='text-lg md:text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </article> */}
             </div>
         </section>
