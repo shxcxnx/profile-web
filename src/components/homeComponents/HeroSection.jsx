@@ -16,7 +16,7 @@ export const Hero = () => {
 
                 <div className='flex gap-6 mt-6'>
                     <a href='/resources/Raul Fernando Calleros Hernandez CV.pdf' download='Raul_Calleros_CV'>
-                        <button className='w-64 h-14 p-2 bg-red-500 hover:bg-red-700 text-white rounded-lg font-bold md:w-44 md:h-14' onClick={changeButtonCV}>
+                        <button className='w-64 h-14 p-2 bg-red-500 hover:bg-red-700 text-white rounded-lg font-bold md:w-64 md:h-14' onClick={changeButtonCV}>
                             {handleButtonCv}
                         </button>
                     </a>

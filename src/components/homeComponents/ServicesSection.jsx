@@ -15,7 +15,7 @@ export const Services = ({ title }) => {
                 </article>
                 <article className='flex flex-col justify-center'>
                     <h1 className='text-7xl mb-6 self-center'>📱</h1>
-                    <h2 className='mb-3 text-lg  font-semibold md:text-xl'>Responsive Design</h2>
+                    <h2 className='mb-3 text-lg font-semibold md:text-xl'>Responsive Design</h2>
                     <p className='text-lg md:text-xl'>Adapting ideas for use them anywhere, anytime, just keep thinking.</p>
                 </article>
                 {/* 
