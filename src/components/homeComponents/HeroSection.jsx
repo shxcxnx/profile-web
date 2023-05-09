@@ -9,14 +9,14 @@ export const Hero = () => {
     return (
         <section className='w-11/12  m-auto'>
             <div className='w-full h-screen md:h-screen flex flex-col justify-center items-center '>
-                {/* <img className='mb-6 rounded-full w-[250px] h-[250px] justify-self-center md:w-[350px] md:h-[350px] object-cover' src='./img/raul-prom.jpg' alt='Raul prom' /> */}
+                <img className='mb-6 rounded-full w-[250px] h-[250px] justify-self-center md:w-[350px] md:h-[350px] object-cover' src='./img/raul-prom.jpg' alt='Raul prom' />
                 <h2 className='font-bold text-md md:text-xl'>RAUL FERNANDO CALLEROS HERNANDEZ</h2>
                 <h1 className='font-bold text-2xl md:text-6xl'>FRONT-END DEVELOPER</h1>
                 <p className='font-bold text-sm md:text-lg'>DURANGO, DGO.</p>
 
                 <div className='flex gap-6 mt-6'>
                     <a href='/resources/Raul Fernando Calleros Hernandez CV.pdf' download='Raul_Calleros_CV'>
-                        <button className='w-36 h-11 p-2 bg-red-500 hover:bg-red-700 text-white rounded-lg font-bold md:w-44 md:h-14' onClick={changeButtonCV}>
+                        <button className='w-64 h-14 p-2 bg-red-500 hover:bg-red-700 text-white rounded-lg font-bold md:w-44 md:h-14' onClick={changeButtonCV}>
                             {handleButtonCv}
                         </button>
                     </a>
